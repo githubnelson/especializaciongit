@@ -1,4 +1,4 @@
 
 class Noticia {
-
+	String titulo
 }
